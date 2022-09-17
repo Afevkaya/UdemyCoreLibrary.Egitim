@@ -1,0 +1,537 @@
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\appsettings.json
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.staticwebassets.runtime.json
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.exe
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.deps.json
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.runtimeconfig.json
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ref\FluentValidationApp.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.pdb
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.AssemblyInfoInputs.cache
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.AssemblyInfo.cs
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.csproj.CoreCompileInputs.cache
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.RazorAssemblyInfo.cache
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.RazorAssemblyInfo.cs
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\scopedcss\bundle\FluentValidationApp.styles.css
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\scopedcss\projectbundle\FluentValidationApp.bundle.scp.css
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\ref\FluentValidationApp.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.pdb
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.genruntimeconfig.cache
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Humanizer.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.csproj.CopyComplete
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\MessagePack.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Common.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidation.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.csproj.AssemblyReference.cache
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\appsettings.json
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.staticwebassets.runtime.json
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.exe
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.deps.json
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.runtimeconfig.json
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ref\FluentValidationApp.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidationApp.pdb
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidation.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Humanizer.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\MessagePack.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Common.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.AssemblyInfoInputs.cache
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.AssemblyInfo.cs
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.csproj.CoreCompileInputs.cache
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.RazorAssemblyInfo.cache
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.RazorAssemblyInfo.cs
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\scopedcss\bundle\FluentValidationApp.styles.css
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\scopedcss\projectbundle\FluentValidationApp.bundle.scp.css
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.csproj.CopyComplete
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\ref\FluentValidationApp.dll
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.pdb
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.genruntimeconfig.cache
