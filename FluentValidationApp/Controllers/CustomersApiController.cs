@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using FluentValidation;
+using FluentValidationApp.DTOs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -17,30 +19,51 @@ namespace FluentValidationApp.Controllers
         private readonly AppDbContext _context;
         private readonly IValidator<Customer> _customerValidator;
 
-        public CustomersApiController(AppDbContext context, IValidator<Customer> customerValidator)
+        // mapper işlemlerini IMapper interface'i üzerinde gerçekleştiririz.
+        private readonly IMapper _mapper;
+
+        public CustomersApiController(AppDbContext context, IValidator<Customer> customerValidator, IMapper mapper)
         {
             _context = context;
-            _customerValidator= customerValidator;
+            _customerValidator = customerValidator;
+            _mapper = mapper;
         }
 
+        [Route("MappingOrnek")]
+        [HttpGet]
+        public IActionResult MappinOrnek()
+        {
+            Customer customer = new Customer
+            {
+                Id = 1, Name = "Ahmet", Email = "afevkaya5151@gmail.com", Age = 23, CreditCard = new CreditCard
+                {
+                    Number = "1234",ValidDate = DateTime.Now
+                }
+            };
+
+            return Ok(_mapper.Map<CustomerDto>(customer));
+        }
+        
         // GET: api/CustomersApi
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers()
+        public async Task<ActionResult<List<CustomerDto>>> GetCustomers()
         {
-          if (_context.Customers == null)
-              return NotFound();
-          else
-              return await _context.Customers.ToListAsync();
+            if (_context.Customers == null)
+                return NotFound();
+
+            var customers = await _context.Customers.ToListAsync();
+            return _mapper.Map<List<CustomerDto>>(customers);
         }
 
         // GET: api/CustomersApi/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Customer>> GetCustomer(int id)
         {
-          if (_context.Customers == null)
-          {
-              return NotFound();
-          }
+            if (_context.Customers == null)
+            {
+                return NotFound();
+            }
+
             var customer = await _context.Customers.FindAsync(id);
 
             if (customer == null)
@@ -97,14 +120,16 @@ namespace FluentValidationApp.Controllers
                     error = x.ErrorMessage
                 }));
             }
+
             if (_context.Customers == null)
             {
-              return Problem("Entity set 'AppDbContext.Customers'  is null.");
+                return Problem("Entity set 'AppDbContext.Customers'  is null.");
             }
+
             _context.Customers.Add(customer);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetCustomer", new { id = customer.Id }, customer);
+            return CreatedAtAction("GetCustomer", new {id = customer.Id}, customer);
         }
 
         // DELETE: api/CustomersApi/5
@@ -115,6 +140,7 @@ namespace FluentValidationApp.Controllers
             {
                 return NotFound();
             }
+
             var customer = await _context.Customers.FindAsync(id);
             if (customer == null)
             {

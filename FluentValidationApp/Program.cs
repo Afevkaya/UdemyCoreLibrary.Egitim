@@ -9,8 +9,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-// Projeye hangi database ile çalýþtýðýmýzý belirtiyoruz.
-// Bu servisi eklemz isek projenin hangi databse ile çalýþacaðýný bilemez.
+// AutoMapper kÃ¼tÃ¼phanesini projede kullanabilmek iÃ§in projeye servis olarak eklemek gerekir.
+builder.Services.AddAutoMapper(typeof(Program));
+
+// Projeye hangi database ile ï¿½alï¿½ï¿½tï¿½ï¿½ï¿½mï¿½zï¿½ belirtiyoruz.
+// Bu servisi eklemz isek projenin hangi databse ile ï¿½alï¿½ï¿½acaï¿½ï¿½nï¿½ bilemez.
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration["ConStr"]);
@@ -18,13 +21,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 //builder.Services.AddSingleton<IValidator<Customer>, CustomerValidator>();
 
-// Projeye FluentValidaton kütüphanesini kullanacaðýmýz haber etmemiz gerekli.
+// Projeye FluentValidaton kï¿½tï¿½phanesini kullanacaï¿½ï¿½mï¿½z haber etmemiz gerekli.
 builder.Services.AddControllersWithViews().AddFluentValidation(options =>
 {
     options.RegisterValidatorsFromAssemblyContaining<Program>();
 });
 
-// API tarafýndan gelen otomatik doðrulamayý bastýrmak için kullanýlýr.. 
+// API tarafï¿½ndan gelen otomatik doï¿½rulamayï¿½ bastï¿½rmak iï¿½in kullanï¿½lï¿½r.. 
 builder.Services.Configure<ApiBehaviorOptions>(options =>
 {
     options.SuppressModelStateInvalidFilter = true;

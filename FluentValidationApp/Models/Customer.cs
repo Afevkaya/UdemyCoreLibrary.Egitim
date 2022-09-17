@@ -14,5 +14,20 @@
         // Address model classı ile ilişki kuruldu.
         public IList<Address> Addresses { get; set; }
 
+        public CreditCard CreditCard { get; set; }
+        
+        public string FullName2()
+        {
+            return $"{Name} - {Email} - {Age}";
+        }
+        
+        
+        // public string GetFullName()
+        // {
+        //     return $"{Name} - {Email} - {Age}";
+        // }
+        
+        
+
     }
 }
