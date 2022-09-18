@@ -535,3 +535,4 @@ D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCo
 D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\ref\FluentValidationApp.dll
 D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.pdb
 D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.genruntimeconfig.cache
+D:\Online Eğitim\Udemy\Fatih Cakiroglu\Bilinmesi Gereken Kütüphaneler\UdemyCoreLibrary\FluentValidationApp\obj\Debug\net6.0\FluentValidationApp.csproj.AssemblyReference.cache
