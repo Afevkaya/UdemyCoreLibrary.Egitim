@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "KwKu7FCNZeRPTjx8FIhZ4VR9N1EzgWYLuHnI51P7dIHhwDC/kp/XplHmKeuTQLfj5iu8r0KgQVzfABcd7nb7bQ==",
+  "success": true,
+  "projectFilePath": "D:\\Online Eğitim\\Udemy\\Fatih Cakiroglu\\Bilinmesi Gereken Kütüphaneler\\UdemyCoreLibrary\\SmidgeApp.Web\\SmidgeApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.fileproviders.composite\\5.0.0\\microsoft.extensions.fileproviders.composite.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\5.0.0\\microsoft.extensions.hosting.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\smidge\\4.1.1\\smidge.4.1.1.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\smidge.core\\4.1.1\\smidge.core.4.1.1.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

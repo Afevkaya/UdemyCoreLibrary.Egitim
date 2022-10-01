@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidationApp", "FluentValidationApp\FluentValidationApp.csproj", "{DCF42CD2-E97F-4B1A-A74F-F677310AF2C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFireApp.Web", "HangFireApp.Web\HangFireApp.Web.csproj", "{FB35AA9B-ED99-4F8B-AEB3-E25A6EC8EF68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DCF42CD2-E97F-4B1A-A74F-F677310AF2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF42CD2-E97F-4B1A-A74F-F677310AF2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF42CD2-E97F-4B1A-A74F-F677310AF2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB35AA9B-ED99-4F8B-AEB3-E25A6EC8EF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB35AA9B-ED99-4F8B-AEB3-E25A6EC8EF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB35AA9B-ED99-4F8B-AEB3-E25A6EC8EF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB35AA9B-ED99-4F8B-AEB3-E25A6EC8EF68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
