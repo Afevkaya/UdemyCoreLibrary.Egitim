@@ -1,0 +1,10 @@
+﻿@{
+    Exception ex = ViewData["exception"] as Exception;
+    ViewBag.Title = "Hata2";
+    Layout = "_Layout";
+}
+
+<h2>Hata2 Sayfası</h2>
+<h3>Hata mesajı: @ex.Message</h3>
+<h4>Hata sayfası: @ViewData["url"]</h4>
+
